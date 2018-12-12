@@ -1,6 +1,6 @@
 # trial-globalyzer-ide
 ## Introduction
-Lingoport's products aim to facilitate internationalization (i18n) and localization (L10n) automation for software application source code. 
+Lingoport's products facilitate internationalization (i18n) and localization (L10n) automation for software application source code. 
 Globalyzer in IDE is one of the deployments for the i18n issue detection. It helps developers identify i18n issues within an IDE by scanning source code.
 Videos and documentation are available on the Lingoport Wiki at 
 https://wiki.lingoport.com/Globalyzer_Lite
